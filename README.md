@@ -2,107 +2,156 @@
 
 Welcome to my personal portfolio repository! 👋
 
-This repository contains my personal portfolio website, showcasing my **skills, projects, education, and knowledge in AWS, DevOps, Cloud Computing, and Web Development**.
+This repository contains my personal portfolio website, showcasing my **skills, projects, education, AWS Cloud knowledge, and DevOps experience**.
 
 ---
 
 ## 🌐 Portfolio
 
 🔗 **Live Portfolio:**
-https://github.com/maniyaraman744-hue
+Add your GitHub Pages URL here.
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Aman Maniyar**, a **BCA graduate from Osmania University** and an **AWS & DevOps Trainee**.
+Hi, I'm **Aman Maniyar**, a **BCA Final-Year Student** and **AWS Cloud & DevOps trainee**.
 
-I am passionate about **Cloud Computing, DevOps, automation, CI/CD, Linux, and web development**. I enjoy learning new technologies and building practical projects using cloud and DevOps tools.
+I have hands-on knowledge of AWS Cloud and DevOps through practical projects and training. I am familiar with AWS services, Linux, Git, GitHub, Jenkins, Kubernetes, CI/CD concepts, and web technologies.
+
+I am looking for an **entry-level AWS Cloud or DevOps Engineer role** where I can apply my technical skills, learn new technologies, and contribute to organizational goals.
 
 ---
 
-## 🛠️ Skills
+## 📄 My Resume
 
-### ☁️ Cloud & DevOps
+📥 **[View / Download My Resume](./resume.pdf)**
 
-* AWS
-* EC2
-* VPC
+My resume includes my education, technical skills, AWS Cloud & DevOps projects, and professional summary.
+
+---
+
+## 🛠️ Technical Skills
+
+### ☁️ AWS Cloud
+
+* Amazon EC2
+* Amazon VPC
+* Amazon S3
 * IAM
-* S3
+* Amazon RDS
+* EFS
 * CloudWatch
-* Auto Scaling
-* Elastic Beanstalk
-* Azure
-* Jenkins
-* CI/CD
+* CloudFront
+* Auto Scaling Groups
+* Application Load Balancer (ALB)
+* Target Groups
+* AMI
+* Security Groups
+* Route Tables
+* Internet Gateway
+* SNS
+* SQS
+* SES
 
-### 🔧 Tools
+### 🔄 DevOps & Automation
 
 * Git
 * GitHub
-* Linux
-* Docker
 * Jenkins
+* Kubernetes
+* CI/CD Concepts
+* Shell Scripting — Basic
 
-### 💻 Web Technologies
+### 🐧 Operating Systems
+
+* Linux
+* Ubuntu
+* Windows
+
+### 💻 Programming Languages
+
+* C
+* C++
+* Python — Basics
+
+### 🌐 Web Technologies
 
 * HTML
 * CSS
-* JavaScript
 * PHP
-* MySQL
+* Apache HTTP Server
 
----
+### 🧠 Other Skills
 
-## 📚 Education
-
-### 🎓 Bachelor of Computer Applications (BCA)
-
-**Osmania University**
+* Computer Fundamentals
+* Problem Solving
+* Communication Skills
+* Teamwork
+* Time Management
+* Adaptability
 
 ---
 
 ## 🚀 Projects
 
-### 1. 🌐 Personal Portfolio Website
+### 1. ☁️ AWS Cloud Infrastructure & DevOps Projects
 
-A responsive personal portfolio website created to showcase my:
+Hands-on AWS Cloud and DevOps projects involving:
 
-* Skills
-* Education
+* Created and configured AWS EC2 instances for application hosting and server management.
+* Designed AWS VPC environments with public and private subnets.
+* Configured route tables, Internet Gateway, and security groups.
+* Worked with AWS RDS for database deployment and connectivity.
+* Practiced Auto Scaling Groups and Application Load Balancer concepts.
+* Used Amazon S3 for cloud storage.
+* Explored CloudFront for content delivery.
+* Worked with IAM users, roles, and permissions.
+* Used CloudWatch for monitoring AWS resources.
+* Practiced Linux administration.
+* Used Git and GitHub for version control.
+* Practiced Jenkins automation and CI/CD concepts.
+* Learned basic Kubernetes concepts.
+
+---
+
+### 2. 🌐 Personal Portfolio Project
+
+**GitHub Repository:**
+🔗 https://github.com/maniyaraman744-hue/Aman2904
+
+A personal portfolio project created to showcase my:
+
+* Technical skills
+* AWS & DevOps knowledge
 * Projects
-* AWS knowledge
-* DevOps skills
-* Contact information
+* Education
+* Professional information
+* Contact details
 
 **Technologies Used:**
 
-`HTML` • `CSS` • `JavaScript`
+`HTML` • `CSS` • `JavaScript` • `Git` • `GitHub`
 
 ---
 
-### 2. ☁️ AWS Cloud Projects
+## 🎓 Education
 
-Hands-on AWS projects involving:
+### Bachelor of Computer Applications (BCA)
 
-* AWS VPC architecture
-* Public and private subnets
-* EC2 instances
-* Auto Scaling
-* CloudWatch monitoring
-* Database connectivity
-* AWS deployment
+**Saketa Degree College, Dilsukhnagar**
+2023 – Present
+Affiliated to **Osmania University**
 
----
+### Intermediate — General Science
 
-### 3. 🔄 Jenkins CI/CD
+**Chhatrapati Shivajiraje Mahavidyalaya, Udgir**
+Completed: 2023
 
-Worked with Jenkins to understand and implement CI/CD pipelines.
+### 10th Class
 
-**Technologies:**
-
-`Jenkins` • `Git` • `GitHub` • `AWS`
+**Jamhoor High School, Udgir**
+Completed: 2021
 
 ---
 
@@ -113,16 +162,16 @@ Worked with Jenkins to understand and implement CI/CD pipelines.
 * Jenkins CI/CD
 * Docker
 * Kubernetes
-* Infrastructure as Code
-* Cloud Automation
 * Linux Administration
+* Cloud Automation
+* Infrastructure as Code
 
 ---
 
 ## 📫 Connect With Me
 
 📧 **Email:**
-[maniyaraman744@gmail.com](mailto:maniyaraman744@gmail.com)
+[maniyaramn744@gmail.com](mailto:maniyaramn744@gmail.com)
 
 💼 **LinkedIn:**
 https://www.linkedin.com/in/aman-maniyar-693583401/
@@ -132,13 +181,7 @@ https://github.com/maniyaraman744-hue
 
 ---
 
-## ⭐ Support
-
-If you like my portfolio or find my projects useful, please consider giving this repository a ⭐ **Star**.
-
----
-
-## 📌 Repository Structure
+## 📂 Repository Structure
 
 ```text
 portfolio/
@@ -146,6 +189,7 @@ portfolio/
 ├── index.html
 ├── style.css
 ├── script.js
+├── resume.pdf
 ├── images/
 │   └── ...
 └── README.md
@@ -153,14 +197,20 @@ portfolio/
 
 ---
 
-## 📄 License
+## ⭐ Support
 
-This project is created and maintained by **Aman Maniyar**.
+If you like my portfolio or find my projects useful, please consider giving this repository a ⭐ **Star**.
+
+---
+
+## 📌 Career Goal
+
+I am seeking an **entry-level AWS Cloud / DevOps Engineer opportunity** where I can use my technical knowledge, develop my skills, and contribute to real-world projects.
 
 ---
 
 ### 🚀 Aman Maniyar
 
-**AWS & DevOps | Cloud Computing | Web Development**
+**BCA Final-Year Student | AWS Cloud & DevOps | Entry-Level IT Candidate**
 
-> *"Learning today, building tomorrow."* 🚀
+> *Learning today, building tomorrow.* 🚀
